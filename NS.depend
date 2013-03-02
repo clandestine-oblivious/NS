@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1362150926 source:c:\users\adami\desktop\ns\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Name.h"
+
+1362151757 c:\users\adami\desktop\ns\name.h
+
+1362152042 source:c:\users\adami\desktop\ns\name.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Name.h"
+	<algorithm>
+	"string.h"
+
+1362229521 source:c:\users\ma. leslie\desktop\ns\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Name.h"
+
+1362229475 c:\users\ma. leslie\desktop\ns\name.h
+
+1362229751 source:c:\users\ma. leslie\desktop\ns\name.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"Name.h"
+	<algorithm>
+	"string.h"
+
